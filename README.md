@@ -1,0 +1,2 @@
+# koska-common
+Angular library
